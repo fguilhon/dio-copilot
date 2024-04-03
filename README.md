@@ -6,8 +6,8 @@ O Copilot também é muito criativo e consegue criar imagens a partir de uma dic
 Segue abaixo alguns exemplos:
 
 Input: "criar uma imagem de uma mulher na nuvem"
-![Mulher Nuvem](/print/mulher_nuvem.jpg?raw=true "Mulher Nuvem")
+![Mulher Nuvem](/outputs/mulher_nuvem.jpg?raw=true "Mulher Nuvem")
 
 Input: "uma mulher na nuvem segurando um guarda-chuva"
-![Mulher Nuvem Guarda-Chuva](/print/mulher_nuvem_guardachuva.jpg?raw=true "Mulher Nuvem Guarda-Chuva")
+![Mulher Nuvem Guarda-Chuva](/outputs/mulher_nuvem_guardachuva.jpg?raw=true "Mulher Nuvem Guarda-Chuva")
 
