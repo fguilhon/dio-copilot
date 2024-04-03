@@ -12,4 +12,8 @@ Input: "uma mulher na nuvem segurando um guarda-chuva"
 ![Mulher Nuvem Guarda-Chuva](/outputs/mulher_nuvem_guardachuva.jpg?raw=true "Mulher Nuvem Guarda-Chuva")
 
 
+Input: "crie uma imagem de um cachorro da raça Shitzu espacial num deserto à noite"
+![Cachorro Espacial](/outputs/cachorro_espacial.jpg?raw=true "Cachorro Espacial")
+
+
 Não tivemos oportunidade de utilizar o Azure OpenAI pois é necessário preencher um formulário com uma solicitação formal para a Microsoft e utilizar um e-mail corporativo (empresa).
